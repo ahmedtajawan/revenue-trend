@@ -27,20 +27,31 @@ def show_sample_format():
     st.write(sample_data)
 
 # Load data from uploaded file or default file
-if file is not None:
-    # Load the data from the uploaded file
-    data = pd.read_csv(file)
-    st.sidebar.markdown("### Uploaded File Format:")
-    show_sample_format()  # Display the sample format after upload attempt
-else:
-    # Load the default file
-    data = pd.read_csv(default_file)
-    st.sidebar.markdown("Using default file 'ExpandedRevenueData.csv'.")
+required_columns = ["Date", "Revenue Source", "Platform/Channel", "Revenue Amount", "Currency"]
+
+try:
+    if file is not None:
+        # Load the data from the uploaded file
+        data = pd.read_csv(file)
+        if not all(col in data.columns for col in required_columns):
+            st.sidebar.error("The uploaded file does not have the required columns. Please check the format.")
+            show_sample_format()  # Display the sample format
+            st.stop()
+        st.sidebar.markdown("### Uploaded File Format:")
+        show_sample_format()  # Display the sample format after upload attempt
+    else:
+        # Load the default file
+        data = pd.read_csv(default_file)
+        st.sidebar.markdown("Using default file 'ExpandedRevenueData.csv'.")
+except Exception as e:
+    st.sidebar.error("The file you uploaded is not in the required format. Please ensure it matches the sample format.")
+    show_sample_format()
+    st.stop()
 
 # Convert 'Date' column to datetime
-data['Date'] = pd.to_datetime(data['Date'])
+data['Date'] = pd.to_datetime(data['Date'], errors='coerce')
 
-# Create a 'Month' column from 'YearMonth'
+# Create a 'Month' column from 'Date'
 data['Month'] = data['Date'].dt.strftime('%Y-%m')  # Year-Month format (e.g., '2023-01')
 
 # Set the style for seaborn
