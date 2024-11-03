@@ -8,8 +8,14 @@ from prophet import Prophet
 st.title("📊 Revenue Analysis")
 
 # Sidebar for file upload
-st.sidebar.title("Upload Data")
+st.sidebar.title("Navigate through the app")
 
+# Sidebar for navigation with a header and icons
+
+page = st.sidebar.radio("Select a Page", ["🏠 Revenue Trends", "📈 Revenue Forecasting"])
+
+
+st.sidebar.subheader(Upload Data"")
 # Load default file if no file is uploaded
 default_file = 'ExpandedRevenueData.csv'  # Default file to load
 file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
@@ -58,9 +64,7 @@ data['Month'] = data['Date'].dt.strftime('%Y-%m')  # Year-Month format (e.g., '2
 # Set the style for seaborn
 sns.set(style="whitegrid")
 
-# Sidebar for navigation with a header and icons
-st.sidebar.subheader("Navigate through the app")
-page = st.sidebar.radio("Select a Page", ["🏠 Revenue Trends", "📈 Revenue Forecasting"])
+
 
 # Page 1: Revenue Trends Visualization
 if page == "🏠 Revenue Trends":
