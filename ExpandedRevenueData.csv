@@ -1,0 +1,501 @@
+Date,Revenue Source,Platform/Channel,Revenue Amount,Currency,Notes
+2023-01-01,Referral,Customer Referral,2530,USD,Referral through Customer Referral
+2023-01-02,Referral,Affiliate Program,1544,USD,Referral through Affiliate Program
+2023-01-03,Email Campaign,Monthly Newsletter,1893,USD,Email Campaign through Monthly Newsletter
+2023-01-04,Seasonal Campaign,Black Friday,11566,USD,Seasonal Campaign through Black Friday
+2023-01-05,Website,E-commerce,9104,USD,Website through E-commerce
+2023-01-06,Social Media,LinkedIn,4684,USD,Social Media through LinkedIn
+2023-01-07,Social Media,Instagram,4017,USD,Social Media through Instagram
+2023-01-08,Referral,Affiliate Program,1894,USD,Referral through Affiliate Program
+2023-01-09,Website,E-commerce,10385,USD,Website through E-commerce
+2023-01-10,Social Media,Instagram,3241,USD,Social Media through Instagram
+2023-01-11,Social Media,LinkedIn,6185,USD,Social Media through LinkedIn
+2023-01-12,Seasonal Campaign,Black Friday,8411,USD,Seasonal Campaign through Black Friday
+2023-01-13,Website,Direct Website,6389,USD,Website through Direct Website
+2023-01-14,Social Media,Facebook,3184,USD,Social Media through Facebook
+2023-01-15,Social Media,Instagram,6512,USD,Social Media through Instagram
+2023-01-16,Email Campaign,Monthly Newsletter,2131,USD,Email Campaign through Monthly Newsletter
+2023-01-17,Social Media,Twitter,6192,USD,Social Media through Twitter
+2023-01-18,In-Store,Store Visit,8804,USD,In-Store through Store Visit
+2023-01-19,Seasonal Campaign,Black Friday,13898,USD,Seasonal Campaign through Black Friday
+2023-01-20,Referral,Affiliate Program,1760,USD,Referral through Affiliate Program
+2023-01-21,In-Store,Store Visit,6051,USD,In-Store through Store Visit
+2023-01-22,Website,Direct Website,10357,USD,Website through Direct Website
+2023-01-23,Social Media,Instagram,6721,USD,Social Media through Instagram
+2023-01-24,Seasonal Campaign,Holiday Sale,10575,USD,Seasonal Campaign through Holiday Sale
+2023-01-25,Social Media,Facebook,6703,USD,Social Media through Facebook
+2023-01-26,Referral,Affiliate Program,1403,USD,Referral through Affiliate Program
+2023-01-27,Social Media,LinkedIn,4113,USD,Social Media through LinkedIn
+2023-01-28,Seasonal Campaign,End-of-Year Sale,8636,USD,Seasonal Campaign through End-of-Year Sale
+2023-01-29,Referral,Customer Referral,1522,USD,Referral through Customer Referral
+2023-01-30,Email Campaign,Monthly Newsletter,2540,USD,Email Campaign through Monthly Newsletter
+2023-01-31,Website,Direct Website,9731,USD,Website through Direct Website
+2023-02-01,Website,Direct Website,6696,USD,Website through Direct Website
+2023-02-02,Referral,Customer Referral,1400,USD,Referral through Customer Referral
+2023-02-03,Email Campaign,Monthly Newsletter,3218,USD,Email Campaign through Monthly Newsletter
+2023-02-04,Seasonal Campaign,Holiday Sale,13026,USD,Seasonal Campaign through Holiday Sale
+2023-02-05,Seasonal Campaign,Black Friday,8643,USD,Seasonal Campaign through Black Friday
+2023-02-06,Seasonal Campaign,Black Friday,7981,USD,Seasonal Campaign through Black Friday
+2023-02-07,In-Store,Store Visit,5520,USD,In-Store through Store Visit
+2023-02-08,Social Media,LinkedIn,3335,USD,Social Media through LinkedIn
+2023-02-09,Website,Direct Website,5502,USD,Website through Direct Website
+2023-02-10,Website,E-commerce,9267,USD,Website through E-commerce
+2023-02-11,Website,Direct Website,8078,USD,Website through Direct Website
+2023-02-12,Social Media,Instagram,4536,USD,Social Media through Instagram
+2023-02-13,Email Campaign,Product Launch,3007,USD,Email Campaign through Product Launch
+2023-02-14,Website,Direct Website,9308,USD,Website through Direct Website
+2023-02-15,Email Campaign,Monthly Newsletter,2687,USD,Email Campaign through Monthly Newsletter
+2023-02-16,Seasonal Campaign,Holiday Sale,11126,USD,Seasonal Campaign through Holiday Sale
+2023-02-17,Website,E-commerce,8139,USD,Website through E-commerce
+2023-02-18,Email Campaign,Product Launch,3262,USD,Email Campaign through Product Launch
+2023-02-19,Website,E-commerce,5227,USD,Website through E-commerce
+2023-02-20,Referral,Affiliate Program,1798,USD,Referral through Affiliate Program
+2023-02-21,In-Store,Store Visit,4246,USD,In-Store through Store Visit
+2023-02-22,Email Campaign,Product Launch,3250,USD,Email Campaign through Product Launch
+2023-02-23,In-Store,Store Visit,6507,USD,In-Store through Store Visit
+2023-02-24,Email Campaign,Product Launch,1944,USD,Email Campaign through Product Launch
+2023-02-25,Social Media,Twitter,4990,USD,Social Media through Twitter
+2023-02-26,Social Media,LinkedIn,3866,USD,Social Media through LinkedIn
+2023-02-27,Website,Direct Website,9266,USD,Website through Direct Website
+2023-02-28,Website,E-commerce,6249,USD,Website through E-commerce
+2023-03-01,Email Campaign,Monthly Newsletter,3142,USD,Email Campaign through Monthly Newsletter
+2023-03-02,Seasonal Campaign,Holiday Sale,6781,USD,Seasonal Campaign through Holiday Sale
+2023-03-03,Email Campaign,Monthly Newsletter,2610,USD,Email Campaign through Monthly Newsletter
+2023-03-04,Email Campaign,Monthly Newsletter,1981,USD,Email Campaign through Monthly Newsletter
+2023-03-05,Referral,Affiliate Program,1850,USD,Referral through Affiliate Program
+2023-03-06,Website,Direct Website,7747,USD,Website through Direct Website
+2023-03-07,Website,E-commerce,10421,USD,Website through E-commerce
+2023-03-08,Seasonal Campaign,Black Friday,8886,USD,Seasonal Campaign through Black Friday
+2023-03-09,Referral,Customer Referral,1588,USD,Referral through Customer Referral
+2023-03-10,In-Store,Store Visit,6201,USD,In-Store through Store Visit
+2023-03-11,Email Campaign,Product Launch,3113,USD,Email Campaign through Product Launch
+2023-03-12,Referral,Customer Referral,2693,USD,Referral through Customer Referral
+2023-03-13,In-Store,Store Visit,5246,USD,In-Store through Store Visit
+2023-03-14,Email Campaign,Product Launch,2483,USD,Email Campaign through Product Launch
+2023-03-15,Email Campaign,Product Launch,2166,USD,Email Campaign through Product Launch
+2023-03-16,In-Store,Store Visit,6613,USD,In-Store through Store Visit
+2023-03-17,Email Campaign,Monthly Newsletter,3063,USD,Email Campaign through Monthly Newsletter
+2023-03-18,Referral,Affiliate Program,1618,USD,Referral through Affiliate Program
+2023-03-19,In-Store,Store Visit,9484,USD,In-Store through Store Visit
+2023-03-20,In-Store,Store Visit,4320,USD,In-Store through Store Visit
+2023-03-21,Social Media,LinkedIn,3093,USD,Social Media through LinkedIn
+2023-03-22,Website,Direct Website,5954,USD,Website through Direct Website
+2023-03-23,In-Store,Store Visit,6181,USD,In-Store through Store Visit
+2023-03-24,Email Campaign,Monthly Newsletter,1506,USD,Email Campaign through Monthly Newsletter
+2023-03-25,Referral,Customer Referral,2603,USD,Referral through Customer Referral
+2023-03-26,Website,E-commerce,5770,USD,Website through E-commerce
+2023-03-27,Website,E-commerce,7096,USD,Website through E-commerce
+2023-03-28,Website,Direct Website,5651,USD,Website through Direct Website
+2023-03-29,In-Store,Store Visit,9271,USD,In-Store through Store Visit
+2023-03-30,Seasonal Campaign,End-of-Year Sale,11827,USD,Seasonal Campaign through End-of-Year Sale
+2023-03-31,In-Store,Store Visit,5232,USD,In-Store through Store Visit
+2023-04-01,Website,E-commerce,8870,USD,Website through E-commerce
+2023-04-02,Seasonal Campaign,End-of-Year Sale,8438,USD,Seasonal Campaign through End-of-Year Sale
+2023-04-03,Seasonal Campaign,Black Friday,6585,USD,Seasonal Campaign through Black Friday
+2023-04-04,In-Store,Store Visit,5306,USD,In-Store through Store Visit
+2023-04-05,Website,E-commerce,7360,USD,Website through E-commerce
+2023-04-06,Seasonal Campaign,Holiday Sale,13364,USD,Seasonal Campaign through Holiday Sale
+2023-04-07,Website,E-commerce,7463,USD,Website through E-commerce
+2023-04-08,In-Store,Store Visit,4961,USD,In-Store through Store Visit
+2023-04-09,Referral,Customer Referral,2035,USD,Referral through Customer Referral
+2023-04-10,Referral,Customer Referral,2554,USD,Referral through Customer Referral
+2023-04-11,In-Store,Store Visit,9666,USD,In-Store through Store Visit
+2023-04-12,Social Media,Instagram,6550,USD,Social Media through Instagram
+2023-04-13,Referral,Customer Referral,2735,USD,Referral through Customer Referral
+2023-04-14,In-Store,Store Visit,5372,USD,In-Store through Store Visit
+2023-04-15,Social Media,Instagram,5087,USD,Social Media through Instagram
+2023-04-16,Seasonal Campaign,End-of-Year Sale,9073,USD,Seasonal Campaign through End-of-Year Sale
+2023-04-17,Seasonal Campaign,Black Friday,7895,USD,Seasonal Campaign through Black Friday
+2023-04-18,Referral,Customer Referral,2197,USD,Referral through Customer Referral
+2023-04-19,In-Store,Store Visit,7810,USD,In-Store through Store Visit
+2023-04-20,In-Store,Store Visit,6273,USD,In-Store through Store Visit
+2023-04-21,In-Store,Store Visit,6627,USD,In-Store through Store Visit
+2023-04-22,Seasonal Campaign,Holiday Sale,10375,USD,Seasonal Campaign through Holiday Sale
+2023-04-23,Social Media,Facebook,6298,USD,Social Media through Facebook
+2023-04-24,Website,E-commerce,5433,USD,Website through E-commerce
+2023-04-25,Social Media,LinkedIn,5627,USD,Social Media through LinkedIn
+2023-04-26,Social Media,LinkedIn,4454,USD,Social Media through LinkedIn
+2023-04-27,Seasonal Campaign,Black Friday,7600,USD,Seasonal Campaign through Black Friday
+2023-04-28,Email Campaign,Product Launch,2418,USD,Email Campaign through Product Launch
+2023-04-29,In-Store,Store Visit,7921,USD,In-Store through Store Visit
+2023-04-30,Website,Direct Website,10294,USD,Website through Direct Website
+2023-05-01,Website,Direct Website,5075,USD,Website through Direct Website
+2023-05-02,In-Store,Store Visit,5477,USD,In-Store through Store Visit
+2023-05-03,Social Media,Twitter,5935,USD,Social Media through Twitter
+2023-05-04,Email Campaign,Monthly Newsletter,1595,USD,Email Campaign through Monthly Newsletter
+2023-05-05,Seasonal Campaign,Holiday Sale,7824,USD,Seasonal Campaign through Holiday Sale
+2023-05-06,Seasonal Campaign,Holiday Sale,10292,USD,Seasonal Campaign through Holiday Sale
+2023-05-07,Social Media,LinkedIn,4629,USD,Social Media through LinkedIn
+2023-05-08,Referral,Affiliate Program,2436,USD,Referral through Affiliate Program
+2023-05-09,Email Campaign,Monthly Newsletter,1708,USD,Email Campaign through Monthly Newsletter
+2023-05-10,Social Media,Instagram,5610,USD,Social Media through Instagram
+2023-05-11,Seasonal Campaign,End-of-Year Sale,13664,USD,Seasonal Campaign through End-of-Year Sale
+2023-05-12,Seasonal Campaign,Holiday Sale,10937,USD,Seasonal Campaign through Holiday Sale
+2023-05-13,Seasonal Campaign,End-of-Year Sale,9473,USD,Seasonal Campaign through End-of-Year Sale
+2023-05-14,Social Media,LinkedIn,5500,USD,Social Media through LinkedIn
+2023-05-15,Seasonal Campaign,Holiday Sale,9327,USD,Seasonal Campaign through Holiday Sale
+2023-05-16,Social Media,Instagram,5299,USD,Social Media through Instagram
+2023-05-17,In-Store,Store Visit,8325,USD,In-Store through Store Visit
+2023-05-18,Website,E-commerce,8561,USD,Website through E-commerce
+2023-05-19,Referral,Customer Referral,1752,USD,Referral through Customer Referral
+2023-05-20,Email Campaign,Monthly Newsletter,2228,USD,Email Campaign through Monthly Newsletter
+2023-05-21,Website,Direct Website,6769,USD,Website through Direct Website
+2023-05-22,Email Campaign,Product Launch,2418,USD,Email Campaign through Product Launch
+2023-05-23,Website,Direct Website,6081,USD,Website through Direct Website
+2023-05-24,Email Campaign,Product Launch,3337,USD,Email Campaign through Product Launch
+2023-05-25,Referral,Affiliate Program,1933,USD,Referral through Affiliate Program
+2023-05-26,Referral,Customer Referral,2606,USD,Referral through Customer Referral
+2023-05-27,Seasonal Campaign,Black Friday,6585,USD,Seasonal Campaign through Black Friday
+2023-05-28,In-Store,Store Visit,9412,USD,In-Store through Store Visit
+2023-05-29,In-Store,Store Visit,5202,USD,In-Store through Store Visit
+2023-05-30,Website,E-commerce,10359,USD,Website through E-commerce
+2023-05-31,Website,E-commerce,10698,USD,Website through E-commerce
+2023-06-01,Seasonal Campaign,End-of-Year Sale,10411,USD,Seasonal Campaign through End-of-Year Sale
+2023-06-02,Website,Direct Website,9420,USD,Website through Direct Website
+2023-06-03,In-Store,Store Visit,7808,USD,In-Store through Store Visit
+2023-06-04,Website,E-commerce,7742,USD,Website through E-commerce
+2023-06-05,Seasonal Campaign,Black Friday,10651,USD,Seasonal Campaign through Black Friday
+2023-06-06,Website,Direct Website,10854,USD,Website through Direct Website
+2023-06-07,In-Store,Store Visit,5279,USD,In-Store through Store Visit
+2023-06-08,Website,Direct Website,7539,USD,Website through Direct Website
+2023-06-09,Seasonal Campaign,Holiday Sale,10436,USD,Seasonal Campaign through Holiday Sale
+2023-06-10,Seasonal Campaign,End-of-Year Sale,9296,USD,Seasonal Campaign through End-of-Year Sale
+2023-06-11,In-Store,Store Visit,9677,USD,In-Store through Store Visit
+2023-06-12,In-Store,Store Visit,7996,USD,In-Store through Store Visit
+2023-06-13,Referral,Affiliate Program,1531,USD,Referral through Affiliate Program
+2023-06-14,Referral,Affiliate Program,1778,USD,Referral through Affiliate Program
+2023-06-15,Email Campaign,Monthly Newsletter,2449,USD,Email Campaign through Monthly Newsletter
+2023-06-16,Social Media,Facebook,6953,USD,Social Media through Facebook
+2023-06-17,Website,E-commerce,10427,USD,Website through E-commerce
+2023-06-18,Referral,Customer Referral,2255,USD,Referral through Customer Referral
+2023-06-19,Website,Direct Website,8538,USD,Website through Direct Website
+2023-06-20,Social Media,LinkedIn,6716,USD,Social Media through LinkedIn
+2023-06-21,Seasonal Campaign,Holiday Sale,6957,USD,Seasonal Campaign through Holiday Sale
+2023-06-22,In-Store,Store Visit,4652,USD,In-Store through Store Visit
+2023-06-23,Email Campaign,Product Launch,1945,USD,Email Campaign through Product Launch
+2023-06-24,Email Campaign,Product Launch,3177,USD,Email Campaign through Product Launch
+2023-06-25,Social Media,Facebook,6190,USD,Social Media through Facebook
+2023-06-26,Email Campaign,Product Launch,2475,USD,Email Campaign through Product Launch
+2023-06-27,Email Campaign,Monthly Newsletter,2137,USD,Email Campaign through Monthly Newsletter
+2023-06-28,Email Campaign,Monthly Newsletter,2319,USD,Email Campaign through Monthly Newsletter
+2023-06-29,Email Campaign,Product Launch,3349,USD,Email Campaign through Product Launch
+2023-06-30,Seasonal Campaign,Holiday Sale,12588,USD,Seasonal Campaign through Holiday Sale
+2023-07-01,Seasonal Campaign,Black Friday,9728,USD,Seasonal Campaign through Black Friday
+2023-07-02,Referral,Customer Referral,1398,USD,Referral through Customer Referral
+2023-07-03,Referral,Customer Referral,1375,USD,Referral through Customer Referral
+2023-07-04,Seasonal Campaign,Black Friday,12448,USD,Seasonal Campaign through Black Friday
+2023-07-05,Seasonal Campaign,Black Friday,12313,USD,Seasonal Campaign through Black Friday
+2023-07-06,In-Store,Store Visit,6156,USD,In-Store through Store Visit
+2023-07-07,Seasonal Campaign,End-of-Year Sale,11659,USD,Seasonal Campaign through End-of-Year Sale
+2023-07-08,In-Store,Store Visit,9435,USD,In-Store through Store Visit
+2023-07-09,Email Campaign,Monthly Newsletter,2155,USD,Email Campaign through Monthly Newsletter
+2023-07-10,Referral,Affiliate Program,2727,USD,Referral through Affiliate Program
+2023-07-11,Seasonal Campaign,Black Friday,13198,USD,Seasonal Campaign through Black Friday
+2023-07-12,Seasonal Campaign,Black Friday,6663,USD,Seasonal Campaign through Black Friday
+2023-07-13,Social Media,Instagram,3372,USD,Social Media through Instagram
+2023-07-14,Email Campaign,Monthly Newsletter,1581,USD,Email Campaign through Monthly Newsletter
+2023-07-15,Referral,Affiliate Program,2653,USD,Referral through Affiliate Program
+2023-07-16,Social Media,Facebook,3110,USD,Social Media through Facebook
+2023-07-17,Seasonal Campaign,End-of-Year Sale,9300,USD,Seasonal Campaign through End-of-Year Sale
+2023-07-18,Website,E-commerce,9847,USD,Website through E-commerce
+2023-07-19,Seasonal Campaign,Holiday Sale,8478,USD,Seasonal Campaign through Holiday Sale
+2023-07-20,Website,E-commerce,9596,USD,Website through E-commerce
+2023-07-21,Social Media,Instagram,3622,USD,Social Media through Instagram
+2023-07-22,Seasonal Campaign,Holiday Sale,8512,USD,Seasonal Campaign through Holiday Sale
+2023-07-23,Email Campaign,Product Launch,2922,USD,Email Campaign through Product Launch
+2023-07-24,Referral,Customer Referral,2543,USD,Referral through Customer Referral
+2023-07-25,Website,Direct Website,9875,USD,Website through Direct Website
+2023-07-26,In-Store,Store Visit,5675,USD,In-Store through Store Visit
+2023-07-27,Website,E-commerce,6766,USD,Website through E-commerce
+2023-07-28,Seasonal Campaign,End-of-Year Sale,7147,USD,Seasonal Campaign through End-of-Year Sale
+2023-07-29,Website,Direct Website,4827,USD,Website through Direct Website
+2023-07-30,Referral,Customer Referral,1242,USD,Referral through Customer Referral
+2023-07-31,Website,Direct Website,10789,USD,Website through Direct Website
+2023-08-01,Referral,Customer Referral,1770,USD,Referral through Customer Referral
+2023-08-02,Email Campaign,Monthly Newsletter,2388,USD,Email Campaign through Monthly Newsletter
+2023-08-03,Referral,Customer Referral,1248,USD,Referral through Customer Referral
+2023-08-04,Email Campaign,Monthly Newsletter,3429,USD,Email Campaign through Monthly Newsletter
+2023-08-05,Website,Direct Website,8548,USD,Website through Direct Website
+2023-08-06,Social Media,LinkedIn,6075,USD,Social Media through LinkedIn
+2023-08-07,Email Campaign,Product Launch,1726,USD,Email Campaign through Product Launch
+2023-08-08,Website,Direct Website,9246,USD,Website through Direct Website
+2023-08-09,Referral,Customer Referral,2518,USD,Referral through Customer Referral
+2023-08-10,Website,Direct Website,9235,USD,Website through Direct Website
+2023-08-11,Website,Direct Website,5800,USD,Website through Direct Website
+2023-08-12,Social Media,Facebook,3508,USD,Social Media through Facebook
+2023-08-13,Social Media,Facebook,4355,USD,Social Media through Facebook
+2023-08-14,In-Store,Store Visit,9403,USD,In-Store through Store Visit
+2023-08-15,Referral,Affiliate Program,2066,USD,Referral through Affiliate Program
+2023-08-16,Social Media,Instagram,6946,USD,Social Media through Instagram
+2023-08-17,Social Media,Instagram,6352,USD,Social Media through Instagram
+2023-08-18,Referral,Customer Referral,1801,USD,Referral through Customer Referral
+2023-08-19,Social Media,Twitter,3864,USD,Social Media through Twitter
+2023-08-20,Website,E-commerce,10872,USD,Website through E-commerce
+2023-08-21,In-Store,Store Visit,7226,USD,In-Store through Store Visit
+2023-08-22,Seasonal Campaign,Black Friday,12760,USD,Seasonal Campaign through Black Friday
+2023-08-23,Seasonal Campaign,End-of-Year Sale,9427,USD,Seasonal Campaign through End-of-Year Sale
+2023-08-24,Website,Direct Website,9519,USD,Website through Direct Website
+2023-08-25,Website,Direct Website,6325,USD,Website through Direct Website
+2023-08-26,Seasonal Campaign,Holiday Sale,12925,USD,Seasonal Campaign through Holiday Sale
+2023-08-27,Email Campaign,Monthly Newsletter,2488,USD,Email Campaign through Monthly Newsletter
+2023-08-28,Referral,Affiliate Program,2523,USD,Referral through Affiliate Program
+2023-08-29,Website,Direct Website,6355,USD,Website through Direct Website
+2023-08-30,In-Store,Store Visit,5458,USD,In-Store through Store Visit
+2023-08-31,Referral,Customer Referral,1343,USD,Referral through Customer Referral
+2023-09-01,Referral,Customer Referral,1789,USD,Referral through Customer Referral
+2023-09-02,Website,Direct Website,9962,USD,Website through Direct Website
+2023-09-03,In-Store,Store Visit,7983,USD,In-Store through Store Visit
+2023-09-04,In-Store,Store Visit,7420,USD,In-Store through Store Visit
+2023-09-05,Referral,Customer Referral,1535,USD,Referral through Customer Referral
+2023-09-06,Referral,Affiliate Program,2450,USD,Referral through Affiliate Program
+2023-09-07,Referral,Customer Referral,1368,USD,Referral through Customer Referral
+2023-09-08,Social Media,Twitter,4883,USD,Social Media through Twitter
+2023-09-09,Email Campaign,Product Launch,1867,USD,Email Campaign through Product Launch
+2023-09-10,Email Campaign,Product Launch,3147,USD,Email Campaign through Product Launch
+2023-09-11,Email Campaign,Product Launch,2124,USD,Email Campaign through Product Launch
+2023-09-12,Seasonal Campaign,Black Friday,7040,USD,Seasonal Campaign through Black Friday
+2023-09-13,In-Store,Store Visit,7742,USD,In-Store through Store Visit
+2023-09-14,Seasonal Campaign,End-of-Year Sale,7895,USD,Seasonal Campaign through End-of-Year Sale
+2023-09-15,Seasonal Campaign,Black Friday,7560,USD,Seasonal Campaign through Black Friday
+2023-09-16,Referral,Customer Referral,1435,USD,Referral through Customer Referral
+2023-09-17,In-Store,Store Visit,4602,USD,In-Store through Store Visit
+2023-09-18,In-Store,Store Visit,8721,USD,In-Store through Store Visit
+2023-09-19,Social Media,LinkedIn,3258,USD,Social Media through LinkedIn
+2023-09-20,Referral,Customer Referral,1217,USD,Referral through Customer Referral
+2023-09-21,Seasonal Campaign,End-of-Year Sale,11321,USD,Seasonal Campaign through End-of-Year Sale
+2023-09-22,Website,Direct Website,8295,USD,Website through Direct Website
+2023-09-23,Email Campaign,Monthly Newsletter,2128,USD,Email Campaign through Monthly Newsletter
+2023-09-24,Website,E-commerce,9554,USD,Website through E-commerce
+2023-09-25,Email Campaign,Product Launch,2876,USD,Email Campaign through Product Launch
+2023-09-26,Seasonal Campaign,End-of-Year Sale,11436,USD,Seasonal Campaign through End-of-Year Sale
+2023-09-27,Website,Direct Website,10271,USD,Website through Direct Website
+2023-09-28,Referral,Affiliate Program,2795,USD,Referral through Affiliate Program
+2023-09-29,Website,E-commerce,9672,USD,Website through E-commerce
+2023-09-30,Seasonal Campaign,Black Friday,11812,USD,Seasonal Campaign through Black Friday
+2023-10-01,Website,Direct Website,7233,USD,Website through Direct Website
+2023-10-02,Referral,Affiliate Program,2740,USD,Referral through Affiliate Program
+2023-10-03,Social Media,LinkedIn,3841,USD,Social Media through LinkedIn
+2023-10-04,Social Media,LinkedIn,4178,USD,Social Media through LinkedIn
+2023-10-05,Social Media,Facebook,6950,USD,Social Media through Facebook
+2023-10-06,Website,Direct Website,10279,USD,Website through Direct Website
+2023-10-07,Email Campaign,Product Launch,2453,USD,Email Campaign through Product Launch
+2023-10-08,Email Campaign,Product Launch,1918,USD,Email Campaign through Product Launch
+2023-10-09,Social Media,Facebook,3533,USD,Social Media through Facebook
+2023-10-10,Website,Direct Website,7998,USD,Website through Direct Website
+2023-10-11,Seasonal Campaign,Holiday Sale,10284,USD,Seasonal Campaign through Holiday Sale
+2023-10-12,Social Media,Facebook,6275,USD,Social Media through Facebook
+2023-10-13,Social Media,Instagram,6472,USD,Social Media through Instagram
+2023-10-14,In-Store,Store Visit,4689,USD,In-Store through Store Visit
+2023-10-15,Social Media,Facebook,5090,USD,Social Media through Facebook
+2023-10-16,Referral,Affiliate Program,1806,USD,Referral through Affiliate Program
+2023-10-17,Seasonal Campaign,End-of-Year Sale,8166,USD,Seasonal Campaign through End-of-Year Sale
+2023-10-18,Social Media,Facebook,3820,USD,Social Media through Facebook
+2023-10-19,Referral,Customer Referral,1425,USD,Referral through Customer Referral
+2023-10-20,Email Campaign,Product Launch,2136,USD,Email Campaign through Product Launch
+2023-10-21,Email Campaign,Monthly Newsletter,3291,USD,Email Campaign through Monthly Newsletter
+2023-10-22,In-Store,Store Visit,7284,USD,In-Store through Store Visit
+2023-10-23,In-Store,Store Visit,6220,USD,In-Store through Store Visit
+2023-10-24,Social Media,LinkedIn,4160,USD,Social Media through LinkedIn
+2023-10-25,Referral,Customer Referral,1369,USD,Referral through Customer Referral
+2023-10-26,Seasonal Campaign,End-of-Year Sale,6191,USD,Seasonal Campaign through End-of-Year Sale
+2023-10-27,Social Media,Twitter,6601,USD,Social Media through Twitter
+2023-10-28,In-Store,Store Visit,8513,USD,In-Store through Store Visit
+2023-10-29,In-Store,Store Visit,5624,USD,In-Store through Store Visit
+2023-10-30,In-Store,Store Visit,5919,USD,In-Store through Store Visit
+2023-10-31,In-Store,Store Visit,4305,USD,In-Store through Store Visit
+2023-11-01,Seasonal Campaign,Black Friday,10677,USD,Seasonal Campaign through Black Friday
+2023-11-02,Referral,Affiliate Program,2426,USD,Referral through Affiliate Program
+2023-11-03,Social Media,Instagram,4157,USD,Social Media through Instagram
+2023-11-04,Email Campaign,Monthly Newsletter,3036,USD,Email Campaign through Monthly Newsletter
+2023-11-05,Website,Direct Website,9156,USD,Website through Direct Website
+2023-11-06,Website,E-commerce,8913,USD,Website through E-commerce
+2023-11-07,Seasonal Campaign,Holiday Sale,12090,USD,Seasonal Campaign through Holiday Sale
+2023-11-08,Social Media,Facebook,5930,USD,Social Media through Facebook
+2023-11-09,Email Campaign,Monthly Newsletter,3195,USD,Email Campaign through Monthly Newsletter
+2023-11-10,Referral,Customer Referral,2289,USD,Referral through Customer Referral
+2023-11-11,Social Media,Twitter,5482,USD,Social Media through Twitter
+2023-11-12,Referral,Customer Referral,2616,USD,Referral through Customer Referral
+2023-11-13,Website,E-commerce,6893,USD,Website through E-commerce
+2023-11-14,Seasonal Campaign,Holiday Sale,10428,USD,Seasonal Campaign through Holiday Sale
+2023-11-15,Social Media,Instagram,3545,USD,Social Media through Instagram
+2023-11-16,Referral,Customer Referral,2174,USD,Referral through Customer Referral
+2023-11-17,In-Store,Store Visit,6955,USD,In-Store through Store Visit
+2023-11-18,Website,Direct Website,7738,USD,Website through Direct Website
+2023-11-19,Social Media,Twitter,6111,USD,Social Media through Twitter
+2023-11-20,Referral,Affiliate Program,1611,USD,Referral through Affiliate Program
+2023-11-21,Seasonal Campaign,Black Friday,9517,USD,Seasonal Campaign through Black Friday
+2023-11-22,Referral,Customer Referral,2635,USD,Referral through Customer Referral
+2023-11-23,Referral,Affiliate Program,2331,USD,Referral through Affiliate Program
+2023-11-24,Referral,Affiliate Program,2749,USD,Referral through Affiliate Program
+2023-11-25,Social Media,Facebook,4502,USD,Social Media through Facebook
+2023-11-26,Social Media,LinkedIn,5430,USD,Social Media through LinkedIn
+2023-11-27,Website,E-commerce,6041,USD,Website through E-commerce
+2023-11-28,Referral,Affiliate Program,2052,USD,Referral through Affiliate Program
+2023-11-29,Email Campaign,Product Launch,2635,USD,Email Campaign through Product Launch
+2023-11-30,Social Media,Facebook,5441,USD,Social Media through Facebook
+2023-12-01,Social Media,Facebook,5838,USD,Social Media through Facebook
+2023-12-02,In-Store,Store Visit,5019,USD,In-Store through Store Visit
+2023-12-03,Email Campaign,Monthly Newsletter,2427,USD,Email Campaign through Monthly Newsletter
+2023-12-04,Website,Direct Website,7749,USD,Website through Direct Website
+2023-12-05,Email Campaign,Product Launch,2733,USD,Email Campaign through Product Launch
+2023-12-06,In-Store,Store Visit,4836,USD,In-Store through Store Visit
+2023-12-07,Seasonal Campaign,Holiday Sale,11831,USD,Seasonal Campaign through Holiday Sale
+2023-12-08,Email Campaign,Product Launch,3244,USD,Email Campaign through Product Launch
+2023-12-09,Social Media,LinkedIn,5085,USD,Social Media through LinkedIn
+2023-12-10,Social Media,Twitter,5156,USD,Social Media through Twitter
+2023-12-11,Social Media,Twitter,5291,USD,Social Media through Twitter
+2023-12-12,Referral,Affiliate Program,1642,USD,Referral through Affiliate Program
+2023-12-13,Social Media,Instagram,5480,USD,Social Media through Instagram
+2023-12-14,Website,Direct Website,6442,USD,Website through Direct Website
+2023-12-15,Seasonal Campaign,Holiday Sale,13347,USD,Seasonal Campaign through Holiday Sale
+2023-12-16,Referral,Affiliate Program,2287,USD,Referral through Affiliate Program
+2023-12-17,Email Campaign,Monthly Newsletter,2158,USD,Email Campaign through Monthly Newsletter
+2023-12-18,Seasonal Campaign,Holiday Sale,12927,USD,Seasonal Campaign through Holiday Sale
+2023-12-19,In-Store,Store Visit,5164,USD,In-Store through Store Visit
+2023-12-20,In-Store,Store Visit,9240,USD,In-Store through Store Visit
+2023-12-21,In-Store,Store Visit,7736,USD,In-Store through Store Visit
+2023-12-22,Email Campaign,Product Launch,2104,USD,Email Campaign through Product Launch
+2023-12-23,Referral,Customer Referral,2739,USD,Referral through Customer Referral
+2023-12-24,In-Store,Store Visit,5550,USD,In-Store through Store Visit
+2023-12-25,In-Store,Store Visit,7065,USD,In-Store through Store Visit
+2023-12-26,Email Campaign,Monthly Newsletter,2650,USD,Email Campaign through Monthly Newsletter
+2023-12-27,Website,E-commerce,9609,USD,Website through E-commerce
+2023-12-28,Social Media,Instagram,5564,USD,Social Media through Instagram
+2023-12-29,Seasonal Campaign,End-of-Year Sale,9873,USD,Seasonal Campaign through End-of-Year Sale
+2023-12-30,In-Store,Store Visit,6566,USD,In-Store through Store Visit
+2023-12-31,In-Store,Store Visit,9375,USD,In-Store through Store Visit
+2023-01-01,Seasonal Campaign,Black Friday,13777,USD,Seasonal Campaign through Black Friday
+2023-01-02,Email Campaign,Product Launch,2022,USD,Email Campaign through Product Launch
+2023-01-03,Social Media,Facebook,4210,USD,Social Media through Facebook
+2023-01-04,Website,Direct Website,10709,USD,Website through Direct Website
+2023-01-05,Referral,Affiliate Program,2413,USD,Referral through Affiliate Program
+2023-01-06,In-Store,Store Visit,8785,USD,In-Store through Store Visit
+2023-01-07,Social Media,Instagram,3434,USD,Social Media through Instagram
+2023-01-08,Seasonal Campaign,Black Friday,7253,USD,Seasonal Campaign through Black Friday
+2023-01-09,In-Store,Store Visit,5648,USD,In-Store through Store Visit
+2023-01-10,Seasonal Campaign,End-of-Year Sale,6433,USD,Seasonal Campaign through End-of-Year Sale
+2023-01-11,Referral,Customer Referral,1853,USD,Referral through Customer Referral
+2023-01-12,Social Media,Instagram,5858,USD,Social Media through Instagram
+2023-01-13,In-Store,Store Visit,9004,USD,In-Store through Store Visit
+2023-01-14,Email Campaign,Product Launch,2616,USD,Email Campaign through Product Launch
+2023-01-15,Social Media,Twitter,3952,USD,Social Media through Twitter
+2023-01-16,Social Media,LinkedIn,4777,USD,Social Media through LinkedIn
+2023-01-17,Seasonal Campaign,Black Friday,13101,USD,Seasonal Campaign through Black Friday
+2023-01-18,In-Store,Store Visit,9770,USD,In-Store through Store Visit
+2023-01-19,In-Store,Store Visit,7944,USD,In-Store through Store Visit
+2023-01-20,Referral,Customer Referral,2652,USD,Referral through Customer Referral
+2023-01-21,Email Campaign,Monthly Newsletter,3353,USD,Email Campaign through Monthly Newsletter
+2023-01-22,Referral,Customer Referral,1901,USD,Referral through Customer Referral
+2023-01-23,In-Store,Store Visit,9669,USD,In-Store through Store Visit
+2023-01-24,Seasonal Campaign,End-of-Year Sale,11372,USD,Seasonal Campaign through End-of-Year Sale
+2023-01-25,Referral,Customer Referral,2078,USD,Referral through Customer Referral
+2023-01-26,Email Campaign,Monthly Newsletter,2073,USD,Email Campaign through Monthly Newsletter
+2023-01-27,Email Campaign,Product Launch,1955,USD,Email Campaign through Product Launch
+2023-01-28,Email Campaign,Monthly Newsletter,3179,USD,Email Campaign through Monthly Newsletter
+2023-01-29,Email Campaign,Monthly Newsletter,3042,USD,Email Campaign through Monthly Newsletter
+2023-01-30,Seasonal Campaign,End-of-Year Sale,7433,USD,Seasonal Campaign through End-of-Year Sale
+2023-01-31,Referral,Customer Referral,1531,USD,Referral through Customer Referral
+2023-02-01,Social Media,Instagram,5225,USD,Social Media through Instagram
+2023-02-02,In-Store,Store Visit,8681,USD,In-Store through Store Visit
+2023-02-03,Seasonal Campaign,End-of-Year Sale,9200,USD,Seasonal Campaign through End-of-Year Sale
+2023-02-04,Website,E-commerce,8574,USD,Website through E-commerce
+2023-02-05,Referral,Affiliate Program,2767,USD,Referral through Affiliate Program
+2023-02-06,Referral,Affiliate Program,1565,USD,Referral through Affiliate Program
+2023-02-07,Social Media,Instagram,3685,USD,Social Media through Instagram
+2023-02-08,Email Campaign,Product Launch,2894,USD,Email Campaign through Product Launch
+2023-02-09,Email Campaign,Monthly Newsletter,2226,USD,Email Campaign through Monthly Newsletter
+2023-02-10,Referral,Customer Referral,2784,USD,Referral through Customer Referral
+2023-02-11,Website,Direct Website,7690,USD,Website through Direct Website
+2023-02-12,Website,Direct Website,8391,USD,Website through Direct Website
+2023-02-13,In-Store,Store Visit,8468,USD,In-Store through Store Visit
+2023-02-14,Website,E-commerce,9273,USD,Website through E-commerce
+2023-02-15,Referral,Customer Referral,1650,USD,Referral through Customer Referral
+2023-02-16,In-Store,Store Visit,9655,USD,In-Store through Store Visit
+2023-02-17,Email Campaign,Monthly Newsletter,2539,USD,Email Campaign through Monthly Newsletter
+2023-02-18,Website,E-commerce,5475,USD,Website through E-commerce
+2023-02-19,Website,Direct Website,6837,USD,Website through Direct Website
+2023-02-20,Social Media,Instagram,5296,USD,Social Media through Instagram
+2023-02-21,Email Campaign,Monthly Newsletter,2564,USD,Email Campaign through Monthly Newsletter
+2023-02-22,Referral,Customer Referral,2137,USD,Referral through Customer Referral
+2023-02-23,Referral,Affiliate Program,2519,USD,Referral through Affiliate Program
+2023-02-24,Website,E-commerce,9004,USD,Website through E-commerce
+2023-02-25,Seasonal Campaign,Holiday Sale,9316,USD,Seasonal Campaign through Holiday Sale
+2023-02-26,Social Media,LinkedIn,4685,USD,Social Media through LinkedIn
+2023-02-27,Website,Direct Website,6567,USD,Website through Direct Website
+2023-02-28,Website,Direct Website,7969,USD,Website through Direct Website
+2023-03-01,Website,E-commerce,8344,USD,Website through E-commerce
+2023-03-02,Website,Direct Website,10710,USD,Website through Direct Website
+2023-03-03,Social Media,Instagram,4507,USD,Social Media through Instagram
+2023-03-04,Seasonal Campaign,Black Friday,10392,USD,Seasonal Campaign through Black Friday
+2023-03-05,Seasonal Campaign,End-of-Year Sale,8086,USD,Seasonal Campaign through End-of-Year Sale
+2023-03-06,Email Campaign,Product Launch,3483,USD,Email Campaign through Product Launch
+2023-03-07,Email Campaign,Monthly Newsletter,1941,USD,Email Campaign through Monthly Newsletter
+2023-03-08,Website,E-commerce,7723,USD,Website through E-commerce
+2023-03-09,Referral,Customer Referral,2566,USD,Referral through Customer Referral
+2023-03-10,Seasonal Campaign,Black Friday,13175,USD,Seasonal Campaign through Black Friday
+2023-03-11,Social Media,Facebook,3727,USD,Social Media through Facebook
+2023-03-12,Email Campaign,Monthly Newsletter,2994,USD,Email Campaign through Monthly Newsletter
+2023-03-13,Email Campaign,Product Launch,1846,USD,Email Campaign through Product Launch
+2023-03-14,In-Store,Store Visit,6489,USD,In-Store through Store Visit
+2023-03-15,Social Media,Instagram,3221,USD,Social Media through Instagram
+2023-03-16,Social Media,Facebook,3627,USD,Social Media through Facebook
+2023-03-17,Seasonal Campaign,Holiday Sale,6630,USD,Seasonal Campaign through Holiday Sale
+2023-03-18,Referral,Affiliate Program,1898,USD,Referral through Affiliate Program
+2023-03-19,Email Campaign,Product Launch,2831,USD,Email Campaign through Product Launch
+2023-03-20,Social Media,Instagram,5044,USD,Social Media through Instagram
+2023-03-21,Referral,Affiliate Program,1301,USD,Referral through Affiliate Program
+2023-03-22,Email Campaign,Product Launch,2787,USD,Email Campaign through Product Launch
+2023-03-23,Email Campaign,Monthly Newsletter,3092,USD,Email Campaign through Monthly Newsletter
+2023-03-24,Seasonal Campaign,End-of-Year Sale,12321,USD,Seasonal Campaign through End-of-Year Sale
+2023-03-25,Social Media,Twitter,4157,USD,Social Media through Twitter
+2023-03-26,Website,E-commerce,6346,USD,Website through E-commerce
+2023-03-27,Referral,Affiliate Program,2552,USD,Referral through Affiliate Program
+2023-03-28,Email Campaign,Product Launch,2492,USD,Email Campaign through Product Launch
+2023-03-29,Email Campaign,Monthly Newsletter,2156,USD,Email Campaign through Monthly Newsletter
+2023-03-30,Social Media,Twitter,5907,USD,Social Media through Twitter
+2023-03-31,Email Campaign,Monthly Newsletter,1679,USD,Email Campaign through Monthly Newsletter
+2023-04-01,In-Store,Store Visit,6359,USD,In-Store through Store Visit
+2023-04-02,Referral,Customer Referral,2685,USD,Referral through Customer Referral
+2023-04-03,Website,E-commerce,9569,USD,Website through E-commerce
+2023-04-04,Seasonal Campaign,Black Friday,11050,USD,Seasonal Campaign through Black Friday
+2023-04-05,Social Media,Twitter,6083,USD,Social Media through Twitter
+2023-04-06,Seasonal Campaign,End-of-Year Sale,12731,USD,Seasonal Campaign through End-of-Year Sale
+2023-04-07,In-Store,Store Visit,8153,USD,In-Store through Store Visit
+2023-04-08,Website,E-commerce,7516,USD,Website through E-commerce
+2023-04-09,In-Store,Store Visit,8398,USD,In-Store through Store Visit
+2023-04-10,Website,E-commerce,6709,USD,Website through E-commerce
+2023-04-11,Social Media,Twitter,4544,USD,Social Media through Twitter
+2023-04-12,Seasonal Campaign,End-of-Year Sale,8721,USD,Seasonal Campaign through End-of-Year Sale
+2023-04-13,Email Campaign,Product Launch,3184,USD,Email Campaign through Product Launch
+2023-04-14,In-Store,Store Visit,7864,USD,In-Store through Store Visit
+2023-04-15,Social Media,Twitter,5851,USD,Social Media through Twitter
+2023-04-16,Website,Direct Website,7320,USD,Website through Direct Website
+2023-04-17,In-Store,Store Visit,9632,USD,In-Store through Store Visit
+2023-04-18,Email Campaign,Product Launch,1501,USD,Email Campaign through Product Launch
+2023-04-19,Referral,Affiliate Program,1310,USD,Referral through Affiliate Program
+2023-04-20,Website,E-commerce,9206,USD,Website through E-commerce
+2023-04-21,Seasonal Campaign,Black Friday,9004,USD,Seasonal Campaign through Black Friday
+2023-04-22,In-Store,Store Visit,6971,USD,In-Store through Store Visit
+2023-04-23,Email Campaign,Monthly Newsletter,3314,USD,Email Campaign through Monthly Newsletter
+2023-04-24,Email Campaign,Product Launch,3035,USD,Email Campaign through Product Launch
+2023-04-25,In-Store,Store Visit,6714,USD,In-Store through Store Visit
+2023-04-26,Email Campaign,Monthly Newsletter,2922,USD,Email Campaign through Monthly Newsletter
+2023-04-27,Referral,Customer Referral,1564,USD,Referral through Customer Referral
+2023-04-28,Email Campaign,Product Launch,3147,USD,Email Campaign through Product Launch
+2023-04-29,Social Media,Facebook,6793,USD,Social Media through Facebook
+2023-04-30,Social Media,LinkedIn,3665,USD,Social Media through LinkedIn
+2023-05-01,Seasonal Campaign,Black Friday,9126,USD,Seasonal Campaign through Black Friday
+2023-05-02,Social Media,Twitter,5772,USD,Social Media through Twitter
+2023-05-03,Email Campaign,Monthly Newsletter,2944,USD,Email Campaign through Monthly Newsletter
+2023-05-04,Seasonal Campaign,Holiday Sale,6620,USD,Seasonal Campaign through Holiday Sale
+2023-05-05,Seasonal Campaign,Black Friday,13680,USD,Seasonal Campaign through Black Friday
+2023-05-06,Website,E-commerce,9584,USD,Website through E-commerce
+2023-05-07,Seasonal Campaign,Black Friday,10234,USD,Seasonal Campaign through Black Friday
+2023-05-08,Email Campaign,Monthly Newsletter,2053,USD,Email Campaign through Monthly Newsletter
+2023-05-09,Seasonal Campaign,End-of-Year Sale,10159,USD,Seasonal Campaign through End-of-Year Sale
+2023-05-10,Seasonal Campaign,End-of-Year Sale,13017,USD,Seasonal Campaign through End-of-Year Sale
+2023-05-11,Website,E-commerce,9787,USD,Website through E-commerce
+2023-05-12,Email Campaign,Monthly Newsletter,2348,USD,Email Campaign through Monthly Newsletter
+2023-05-13,Website,E-commerce,8585,USD,Website through E-commerce
+2023-05-14,In-Store,Store Visit,4991,USD,In-Store through Store Visit
+2023-05-15,Email Campaign,Monthly Newsletter,2075,USD,Email Campaign through Monthly Newsletter
