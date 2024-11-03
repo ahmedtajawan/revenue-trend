@@ -16,7 +16,7 @@ file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
 # Function to display sample file format
 def show_sample_format():
-    st.info("Sample file format:")
+    st.sidebar.info("Sample file format:")
     sample_data = pd.DataFrame({
         "Date": ["2023-01-01", "2023-01-02"],
         "Revenue Source": ["Source A", "Source B"],
@@ -26,26 +26,27 @@ def show_sample_format():
     })
     st.sidebar.write(sample_data)
 
+# Display sample format in the sidebar
+show_sample_format()
+
 # Load data from uploaded file or default file
-required_columns = ["Date", "Revenue Source", "Platform/Channel", "Revenue Amount", "Currency"]
+required_columns = ["Date", "Revenue Amount"]  # Minimal required columns
 
 try:
     if file is not None:
         # Load the data from the uploaded file
         data = pd.read_csv(file)
+        # Check for required columns specifically
         if not all(col in data.columns for col in required_columns):
-            st.sidebar.error("The uploaded file does not have the required columns. Please check the require format.")
-            show_sample_format()  # Display the sample format
+            st.sidebar.error("The uploaded file is missing required columns: 'Date' or 'Revenue Amount'. Please check the format.")
             st.stop()
         st.sidebar.markdown("### Uploaded File Format:")
-        show_sample_format()  # Display the sample format after upload attempt
     else:
         # Load the default file
         data = pd.read_csv(default_file)
         st.sidebar.markdown("Using default file 'ExpandedRevenueData.csv'.")
 except Exception as e:
-    st.sidebar.error("The file you uploaded is not in the required format. Please ensure it matches the sample format.")
-    show_sample_format()
+    st.sidebar.error("The file you uploaded is not in the correct format. Please ensure it matches the sample format.")
     st.stop()
 
 # Convert 'Date' column to datetime
@@ -174,27 +175,5 @@ elif page == "📈 Revenue Forecasting":
             plt.xticks(rotation=45)
             st.pyplot(plt)
 
-    # Monthly Revenue Trends by Platform/Channel (for forecast tab)
-    st.subheader("Monthly Revenue Trends by Platform/Channel (Forecasting Tab)")
-    for revenue_source in revenue_sources:
-        # Filter the data for the current revenue source
-        revenue_data = data[data['Revenue Source'] == revenue_source]
-
-        # Create a FacetGrid for the current revenue source across different platforms
-        g = sns.FacetGrid(revenue_data, col='Platform/Channel', height=5, sharey=True)
-        g.map(sns.lineplot, 'Month', 'Revenue Amount', marker='o')
-
-        # Add titles and labels
-        g.add_legend(title='Revenue Source')
-        g.set_titles(col_template="{col_name} - " + revenue_source)
-        g.set_axis_labels('Month', 'Revenue Amount')
-
-        # Rotate x-ticks for better readability
-        for ax in g.axes.flatten():
-            ax.set_xticklabels(ax.get_xticklabels(), rotation=45)
-
-        # Show the plot
-        plt.tight_layout()
-        st.pyplot(plt)
 else:
     st.warning("Please upload a CSV file to proceed.")
