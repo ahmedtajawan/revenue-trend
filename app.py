@@ -22,7 +22,7 @@ file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
 
 # Function to display sample file format
 def show_sample_format():
-    st.sidebar.info("Sample file format:")
+    st.sidebar.info("Required file format:")
     sample_data = pd.DataFrame({
         "Date": ["2023-01-01", "2023-01-02"],
         "Revenue Source": ["Source A", "Source B"],
@@ -44,7 +44,7 @@ try:
         data = pd.read_csv(file)
         # Check for required columns specifically
         if not all(col in data.columns for col in required_columns):
-            st.sidebar.error("The uploaded file is missing required columns: 'Date' or 'Revenue Amount'. Please check the format.")
+            st.sidebar.error("The uploaded file is missing required columns: 'Date' or 'Revenue Amount'. Please check the required format.")
             st.stop()
         st.sidebar.markdown("### Uploaded File Format:")
     else:
