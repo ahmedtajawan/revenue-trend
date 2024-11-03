@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from prophet import Prophet
 
-# Set the title of the Streamlit app
-st.title("📊 Revenue Analysis")
-
 # Sidebar for file upload
 st.sidebar.title("Navigate through the app")
 
