@@ -24,7 +24,7 @@ def show_sample_format():
         "Revenue Amount": [1000, 2000],
         "Currency": ["USD", "USD"]
     })
-    st.write(sample_data)
+    st.sidebar.write(sample_data)
 
 # Load data from uploaded file or default file
 required_columns = ["Date", "Revenue Source", "Platform/Channel", "Revenue Amount", "Currency"]
@@ -34,7 +34,7 @@ try:
         # Load the data from the uploaded file
         data = pd.read_csv(file)
         if not all(col in data.columns for col in required_columns):
-            st.sidebar.error("The uploaded file does not have the required columns. Please check the format.")
+            st.sidebar.error("The uploaded file does not have the required columns. Please check the require format.")
             show_sample_format()  # Display the sample format
             st.stop()
         st.sidebar.markdown("### Uploaded File Format:")
