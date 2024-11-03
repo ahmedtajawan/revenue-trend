@@ -15,7 +15,7 @@ st.sidebar.title("Navigate through the app")
 page = st.sidebar.radio("Select a Page", ["🏠 Revenue Trends", "📈 Revenue Forecasting"])
 
 
-st.sidebar.subheader("Upload Data"")
+st.sidebar.subheader("Upload Data")
 # Load default file if no file is uploaded
 default_file = 'ExpandedRevenueData.csv'  # Default file to load
 file = st.sidebar.file_uploader("Choose a CSV file", type="csv")
